@@ -1,6 +1,6 @@
 # Wajah.ID
 
-Wajah.ID is a beauty clinic application that can help you to find a beauty specialist to consult, buy skincare products, find our closest clinics in your city
+Wajah.ID is a beauty clinic application that can help you to find a beauty specialist to consult, buy skincare products, and find our closest clinics in your city
 
 <img src="assets/images/Brown_Minimalist_House_Design_Blog_Banner.png">
 
