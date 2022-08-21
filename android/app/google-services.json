@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581332798715",
+    "project_id": "wajahid-89ff5",
+    "storage_bucket": "wajahid-89ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581332798715:android:0a16312ab203a12373f45e",
+        "android_client_info": {
+          "package_name": "com.wajah.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581332798715-3qejt43kt7agjneu1d509aj1duparjpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PwLPn13woBpDaYcFdgr03uDQ3O2e7o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581332798715-3qejt43kt7agjneu1d509aj1duparjpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
